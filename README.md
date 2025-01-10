@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Orel, a computer science student at Ariel university.
-- 👀 I’m interested in data science and computer vision.
-- 🌱 I’m currently learning math and a little code in java.
 - 📫 How to reach me: orel2744@gmail.com
 
 <!---
