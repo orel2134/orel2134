@@ -7,7 +7,7 @@
 - 🤖 I'm passionate about **Machine Learning, AI and Algorithms**.
 - 🧠 I love solving complex problems and building smart systems.
 - 🌱 Currently learning: **Deep Learning, Python frameworks, System programming**
-- 📫 Reach me at: **youremail@example.com**
+- 📫 Reach me at: **orel2744@gmail.com**
 
 ---
 
@@ -25,11 +25,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=orel2134&layout=compact&theme=tokyonight" alt="langs"/>
 </p>
 
----
-
-### 🏆 Trophies:
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=orel2134&theme=flat&no-frame=true&rank=AA,AB,A,B,C" />
-</p>
-
+-
 ---
